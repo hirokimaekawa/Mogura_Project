@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 69c115fae5bd7473da99af88c4c375a5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: animal_chara_mogura_kouji_0
+    21300002: animal_chara_mogura_kouji_1
+    21300004: animal_chara_mogura_kouji_2
+    21300006: animal_chara_mogura_kouji_3
+    21300008: animal_chara_mogura_kouji_4
+    21300010: animal_chara_mogura_kouji_5
+    21300012: animal_chara_mogura_kouji_6
+    21300014: animal_chara_mogura_kouji_7
+    21300016: animal_chara_mogura_kouji_8
+    21300018: animal_chara_mogura_kouji_9
+    21300020: animal_chara_mogura_kouji_10
+    21300022: animal_chara_mogura_kouji_11
+    21300024: animal_chara_mogura_kouji_12
+    21300026: animal_chara_mogura_kouji_13
+    21300028: animal_chara_mogura_kouji_14
+    21300030: animal_chara_mogura_kouji_15
+    21300032: animal_chara_mogura_kouji_16
+    21300034: animal_chara_mogura_kouji_17
+    21300036: animal_chara_mogura_kouji_18
+    21300038: animal_chara_mogura_kouji_19
+    21300040: animal_chara_mogura_kouji_20
+    21300042: animal_chara_mogura_kouji_21
+    21300044: animal_chara_mogura_kouji_22
+    21300046: animal_chara_mogura_kouji_23
+    21300048: animal_chara_mogura_kouji_24
+    21300050: animal_chara_mogura_kouji_25
+    21300052: animal_chara_mogura_kouji_26
+    21300054: animal_chara_mogura_kouji_27
+    21300056: animal_chara_mogura_kouji_28
+    21300058: animal_chara_mogura_kouji_29
+    21300060: animal_chara_mogura_kouji_30
+    21300062: animal_chara_mogura_kouji_31
+    21300064: animal_chara_mogura_kouji_32
+    21300066: animal_chara_mogura_kouji_33
+    21300068: animal_chara_mogura_kouji_34
+    21300070: animal_chara_mogura_kouji_35
+    21300072: animal_chara_mogura_kouji_36
+    21300074: animal_chara_mogura_kouji_37
+    21300076: animal_chara_mogura_kouji_38
+    21300078: animal_chara_mogura_kouji_39
+    21300080: animal_chara_mogura_kouji_40
+    21300082: animal_chara_mogura_kouji_41
+    21300084: animal_chara_mogura_kouji_42
+    21300086: animal_chara_mogura_kouji_43
+    21300088: animal_chara_mogura_kouji_44
+    21300090: animal_chara_mogura_kouji_45
+    21300092: animal_chara_mogura_kouji_46
+    21300094: animal_chara_mogura_kouji_47
+    21300096: animal_chara_mogura_kouji_48
+    21300098: animal_chara_mogura_kouji_49
+    21300100: animal_chara_mogura_kouji_50
+    21300102: animal_chara_mogura_kouji_51
+    21300104: animal_chara_mogura_kouji_52
+    21300106: animal_chara_mogura_kouji_53
+    21300108: animal_chara_mogura_kouji_54
+    21300110: animal_chara_mogura_kouji_55
+    21300112: animal_chara_mogura_kouji_56
+    21300114: animal_chara_mogura_kouji_57
+    21300116: animal_chara_mogura_kouji_58
+    21300118: animal_chara_mogura_kouji_59
+    21300120: animal_chara_mogura_kouji_60
+    21300122: animal_chara_mogura_kouji_61
+    21300124: animal_chara_mogura_kouji_62
+    21300126: animal_chara_mogura_kouji_63
+    21300128: animal_chara_mogura_kouji_64
+    21300130: animal_chara_mogura_kouji_65
+    21300132: animal_chara_mogura_kouji_66
+    21300134: animal_chara_mogura_kouji_67
+    21300136: animal_chara_mogura_kouji_68
+    21300138: animal_chara_mogura_kouji_69
+    21300140: animal_chara_mogura_kouji_70
+    21300142: animal_chara_mogura_kouji_71
+    21300144: animal_chara_mogura_kouji_72
+    21300146: animal_chara_mogura_kouji_73
+    21300148: animal_chara_mogura_kouji_74
+    21300150: animal_chara_mogura_kouji_75
+    21300152: animal_chara_mogura_kouji_76
+    21300154: animal_chara_mogura_kouji_77
+    21300156: animal_chara_mogura_kouji_78
+    21300158: animal_chara_mogura_kouji_79
+    21300160: animal_chara_mogura_kouji_80
+    21300162: animal_chara_mogura_kouji_81
+    21300164: animal_chara_mogura_kouji_82
+    21300166: animal_chara_mogura_kouji_83
+    21300168: animal_chara_mogura_kouji_84
+    21300170: animal_chara_mogura_kouji_85
+    21300172: animal_chara_mogura_kouji_86
+    21300174: animal_chara_mogura_kouji_87
+    21300176: animal_chara_mogura_kouji_88
+    21300178: animal_chara_mogura_kouji_89
+    21300180: animal_chara_mogura_kouji_90
+    21300182: animal_chara_mogura_kouji_91
+    21300184: animal_chara_mogura_kouji_92
+    21300186: animal_chara_mogura_kouji_93
+    21300188: animal_chara_mogura_kouji_94
+    21300190: animal_chara_mogura_kouji_95
+    21300192: animal_chara_mogura_kouji_96
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animal_chara_mogura_kouji_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 273
+        width: 673
+        height: 511
+      alignment: 9
+      pivot: {x: 0.51696616, y: 0.72136545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb1a5f48d952462a800ce6f42660051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chara_mogura_kouji_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 155
+        width: 722
+        height: 634
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c29032d1bf804fd09929874c81634ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chara_mogura_kouji_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 230
+        width: 748
+        height: 561
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2685d64972c405f8fae1295a51be27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 0, y: 400}
+      - {x: -226.00343, y: 323.6068}
+      - {x: -365.68124, y: 123.60679}
+      - {x: -365.6812, y: -123.60681}
+      - {x: -226.0034, y: -323.6068}
+      - {x: 0.00003361406, y: -400}
+      - {x: 226.00348, y: -323.60678}
+      - {x: 365.6812, y: -123.606834}
+      - {x: 365.6812, y: 123.60685}
+      - {x: 226.00331, y: 323.6069}
+    physicsShape: []
+    bones: []
+    spriteID: 62dba11243e834b76b5bcd631a81cf13
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
